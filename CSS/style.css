@@ -1,0 +1,23 @@
+body {
+
+    margin: 0;
+    height: 100vh;
+    background-color: darkgrey;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+
+    font-size: 150px;
+    font-weight: bold;
+    border-style: solid;
+    padding: 50%;
+    margin: 10px;
+    text-align: center;
+    color:black
+
+
+}
