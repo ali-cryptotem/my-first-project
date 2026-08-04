@@ -1,4 +1,4 @@
-This project is a practice of GitHub.
+This project is a practice for GitHub.
 concluding how to create a README for repository,
-editing html and css file in a folder at the same time and upload it on page,
+editing html and css files in a folder at the same time and upload it on page,
 and some other
