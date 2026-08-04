@@ -79,11 +79,17 @@ images:
 
 we can use html code to add a link
 
-[Picture](<images (1).jpg>)
+---
 
-![Picture](<images (1).jpg>)
+[Picture](./files/images%20(1).jpg)
 
-[![Picture](<images (1).jpg>)](https://finca.ir)
+---
+
+![Picture](./files/images%20(1).jpg)
+
+---
+
+[![Picture](./files/images%20(1).jpg)](https://finca.ir)
 
 ---
 
